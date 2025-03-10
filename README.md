@@ -93,3 +93,9 @@ Submit a pull request.
 📜 License
 This project is licensed under the MIT License.
 
+few screenshots 
+![Screenshot 2025-03-10 093212](https://github.com/user-attachments/assets/19b43fbc-cb66-4414-9e94-95a57aed93a3)
+![Screenshot 2025-03-10 093236](https://github.com/user-attachments/assets/b16c62bb-81dd-40aa-bd1e-9d1020ce241b)
+
+
+
